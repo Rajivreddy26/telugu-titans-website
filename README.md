@@ -3,7 +3,7 @@
 A modern, cinematic redesign of the Telugu Titans Kabaddi team website.
 
 ## 🚀 Live Demo
-https://your-netlify-link.netlify.app
+https://telugu-titans-fans.netlify.app/
 
 ## 🛠️ Tech Used
 - HTML
